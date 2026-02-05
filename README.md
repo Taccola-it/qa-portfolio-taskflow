@@ -1,2 +1,11 @@
-# qa-portfolio-taskflow
-Manual QA portfolio: test documentation, bug reports, API testing
+# QA Portfolio — TaskFlow
+
+This repository contains my manual QA portfolio.
+
+## Contents
+- Test Plan
+- Test Cases
+- Checklists
+- Bug Reports
+- API Testing
+- SQL checks
